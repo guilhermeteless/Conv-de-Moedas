@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 400px;
+    background-image: url("https://images.pexels.com/photos/4025825/pexels-photo-4025825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: auto;
+    background-position: center;
+    background-repeat: repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 90vh;
+  }
+  
+  .page-title {
+    font-size: 30px;
+    background-color: #484a47a1;
+    border-radius: 20px;
+    width: 30%;
+    color: #ffffff;
+    margin: 15px 1px 15px 450px;
+  }
+  
+  .page-subtitle {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #484a47a1;
+    border-radius: 20px;
+    width: 45%;
+    margin: 15px 1px 15px 340px;
+  }
+  
+  .page-logo {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.836);
+    width: 200px;
+    margin: auto;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+      text-align: center;
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    font-size: 20px;
+    color: white;
+    background-color: #525252;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #BFC1BE;
+  }
+  
+  button:active {
+      opacity: 0.9;
+  }
+
+  h2 {
+    color: #ffffff;
+    font-size: 30px;
+    background-color: rgb(59 154 156 / 78%);
+    border-radius: 20px;
+    width: 35%;
+    margin: 15px 1px 15px 450px;
+  }
+  
